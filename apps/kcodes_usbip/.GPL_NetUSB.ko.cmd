@@ -1,0 +1,1 @@
+cmd_/disk3/workspace/GPL/apps/kcodes_usbip/GPL_NetUSB.ko := mips-linux-ld -r  -m elf32btsmip  --build-id -o /disk3/workspace/GPL/apps/kcodes_usbip/GPL_NetUSB.ko /disk3/workspace/GPL/apps/kcodes_usbip/GPL_NetUSB.o /disk3/workspace/GPL/apps/kcodes_usbip/GPL_NetUSB.mod.o
